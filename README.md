@@ -31,6 +31,8 @@
 - 게시글 검색, Pagination, Indexing
 - 불필요한 데이터 주기적으로 삭제하는 Batch 개발
 
+자세한 내용 : https://hissing-cabinet-5ee.notion.site/b07c5dc5f11f403187ba85b9d05aad0a
+
 <br>
 
 ## 👀 '커뮤니티 게시판’ 구조 :
