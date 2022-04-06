@@ -33,12 +33,14 @@
 
 <br>
 
-## 👀 커뮤니티 게시판’ 구조 :
+## 👀 '커뮤니티 게시판’ 구조 :
+![img70](https://user-images.githubusercontent.com/39355400/161891300-0116fca7-b91d-4beb-94b8-b777fa5a9816.PNG)
 
 
 
 
 <br>
 
-## 👀 커뮤니티 게시판’ Service UI :
+## 👀 '커뮤니티 게시판’ Service UI :
+![img71](https://user-images.githubusercontent.com/39355400/161891303-83186755-b2e9-4344-a8e7-8d7a9030d954.PNG)
 
