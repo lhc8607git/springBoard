@@ -44,5 +44,5 @@
 <br>
 
 ## 👀 '커뮤니티 게시판’ Service UI :
-![img71](https://user-images.githubusercontent.com/39355400/161891303-83186755-b2e9-4344-a8e7-8d7a9030d954.PNG)
+![img71](https://user-images.githubusercontent.com/39355400/162695820-d51a5034-77ec-4e55-9136-52af5150b207.PNG)
 
